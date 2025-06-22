@@ -1,0 +1,52 @@
+TransactionID,Items
+1,football,cricket ball,gloves
+2,cricket bat,cricket ball,juice
+3,football,water bottle,juice
+4,cricket bat,cricket ball,gloves
+5,football,ice cream
+6,cricket ball,gloves,juice
+7,cricket bat,gloves,ice cream
+8,football,juice
+9,football,cricket bat,cricket ball
+10,water bottle,juice
+11,cricket ball,juice
+12,football,water bottle
+13,cricket bat,gloves
+14,cricket bat,cricket ball
+15,juice,ice cream
+16,football,gloves,water bottle
+17,football,cricket ball
+18,cricket bat,juice
+19,cricket ball,water bottle
+20,football,juice,ice cream
+21,cricket bat,cricket ball,gloves
+22,football,cricket bat
+23,water bottle,ice cream
+24,gloves,juice
+25,cricket bat,football,juice
+26,football,gloves
+27,cricket bat,juice,ice cream
+28,cricket bat,gloves,water bottle
+29,cricket ball,juice,ice cream
+30,football,gloves,juice
+31,cricket bat,water bottle
+32,football,ice cream,cricket ball
+33,cricket ball,gloves
+34,football,cricket bat,juice
+35,football,water bottle,ice cream
+36,cricket bat,gloves,juice
+37,cricket ball,gloves,water bottle
+38,football,gloves
+39,cricket bat,football
+40,water bottle,juice,ice cream
+41,cricket bat,cricket ball,juice
+42,football,gloves,juice
+43,football,water bottle
+44,cricket bat,ice cream
+45,cricket ball,juice
+46,football,cricket bat,ice cream
+47,gloves,ice cream
+48,cricket bat,cricket ball,water bottle
+49,football,gloves,cricket ball
+50,water bottle,juice
+

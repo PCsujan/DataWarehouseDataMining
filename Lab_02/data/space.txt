@@ -1,0 +1,52 @@
+TransactionID,Items
+1,Robotic Arm,Food Packets
+2,Sleeping Bag,Treadmill,Food Packets
+3,Robotic Arm,Space Suit,3D Printer
+4,Food Packets,Carbon Dioxide Scrubbers
+5,Sleeping Bag,Space Suit
+6,Robotic Arm,Treadmill
+7,Robotic Arm,Sleeping Bag,Food Packets
+8,3D Printer,Carbon Dioxide Scrubbers
+9,Space Suit,Food Packets
+10,Treadmill,Food Packets
+11,Robotic Arm,Carbon Dioxide Scrubbers
+12,Robotic Arm,Sleeping Bag,3D Printer
+13,Food Packets
+14,Space Suit,Treadmill
+15,Sleeping Bag,3D Printer
+16,Robotic Arm,Space Suit,Food Packets
+17,Treadmill,Carbon Dioxide Scrubbers
+18,Robotic Arm,3D Printer
+19,Sleeping Bag,Carbon Dioxide Scrubbers
+20,Food Packets,3D Printer
+21,Sleeping Bag,Space Suit
+22,Robotic Arm,Sleeping Bag
+23,Treadmill,Food Packets
+24,Robotic Arm,Space Suit
+25,Carbon Dioxide Scrubbers,3D Printer
+26,Treadmill,Space Suit
+27,Robotic Arm,Food Packets,3D Printer
+28,Sleeping Bag,Carbon Dioxide Scrubbers
+29,Treadmill,Food Packets
+30,3D Printer,Space Suit
+31,Robotic Arm,Sleeping Bag,Food Packets
+32,Treadmill,Carbon Dioxide Scrubbers
+33,Space Suit,3D Printer
+34,Sleeping Bag,Food Packets
+35,Treadmill,Robotic Arm
+36,Space Suit,Food Packets
+37,3D Printer,Sleeping Bag
+38,Treadmill,Carbon Dioxide Scrubbers
+39,Robotic Arm,Space Suit
+40,Sleeping Bag,3D Printer,Carbon Dioxide Scrubbers
+41,Food Packets,Space Suit
+42,Robotic Arm,Sleeping Bag
+43,3D Printer,Carbon Dioxide Scrubbers
+44,Sleeping Bag,Treadmill,Food Packets
+45,Robotic Arm,Food Packets
+46,Treadmill,Space Suit
+47,Sleeping Bag,3D Printer
+48,Carbon Dioxide Scrubbers,Space Suit
+49,Treadmill,Food Packets
+50,Robotic Arm,Space Suit,Food Packets
+
