@@ -1,0 +1,16 @@
+Q3. Compare Apriori and FP-growth algorithms.
+The Apriori and FP-Growth algorithms both aim to discover frequent itemsets and derive association rules from transactional data,
+but they employ fundamentally different strategies. Apriori utilizes a "generate and test" approach, systematically identifying 
+frequent itemsets of increasing length. This involves repeatedly scanning the entire transaction database to count candidate
+itemsets at each level (e.g., all pairs, then all triplets, etc.), and then pruning those that fall below a minimum support 
+threshold based on its anti-monotonicity principle. While conceptually straightforward, Apriori's primary drawbacks
+are the vast number of candidate itemsets it may need to generate, leading to combinatorial explosion for dense datasets,
+and the necessity of multiple passes over the often large transactional database, making it I/O intensive and slower.
+
+In contrast, FP-Growth adopts a "divide and conquer" strategy that significantly enhances efficiency by entirely avoiding candidate generation. 
+It achieves this by first constructing a highly compressed data structure called an FP-Tree from two scans of the database: one to count item frequencies,
+and a second to build the tree. Subsequent mining for frequent itemsets is then performed recursively directly on this in-memory FP-Tree, without further
+interaction with the original database. This makes FP-Growth generally much faster than Apriori, particularly for large and dense datasets, as it eliminates
+the costly generation and pruning of candidates and reduces the number of database scans. However, the complexity of implementing the FP-Tree and 
+its recursive mining process is higher, and for extremely diverse datasets, the FP-Tree itself could potentially become memory-intensive, 
+though typically it offers significant data compression.
